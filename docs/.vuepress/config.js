@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-
+  base: '/han-Libing/',
   title: '蜀川根脉',
   description: '故蜀郡李府君，讳冰',
 
