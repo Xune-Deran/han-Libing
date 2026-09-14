@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: '故蜀郡李府君，讳冰',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: '/images/logo.png',
 
     navbar: [
       {
@@ -37,6 +37,7 @@ export default defineUserConfig({
           children: [
             '/科普/',
             '/科普/李冰：从史书到神话(1).md',
+            '/科普/何止治水？秦蜀守李冰被遗忘的武与守.md'
           ],
         },
       ],
