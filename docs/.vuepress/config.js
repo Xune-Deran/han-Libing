@@ -35,7 +35,10 @@ export default defineUserConfig({
         {
           text: '科普',
           children: [
-            '/科普/',
+            {
+              text:'引文',
+              link:'/科普/',
+            },
             '/科普/李冰：从史书到神话(1).md',
             '/科普/何止治水？秦蜀守李冰被遗忘的武与守.md'
           ],
@@ -46,7 +49,10 @@ export default defineUserConfig({
         {
           text: '评论',
           children: [
-            '/评论/',
+             {
+              text:'引文',
+              link:'/评论/',
+            },
             '/评论/甲申岁暮祭李公文.md',
             '/评论/论湔堋与冰.md',
           ],

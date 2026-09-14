@@ -4,3 +4,42 @@
   --vp-c-accent-hover: #007f9b;
   --vp-c-accent-text: #ffffff;
 }
+
+[vp-content] h1 {
+  color: #b31b00;
+}
+
+[vp-content] h2 {
+  color: #0095B6;
+}
+
+[vp-content] h3 {
+  color: #6f5146;
+}
+
+.libing-quote {
+  margin: 2rem 0;
+  padding: 1.2rem 1.5rem;
+  border-left: 4px solid  #0e8fac;
+  background: #f8f4ef;
+  color: #1e6375;
+  font-size: 1.0rem;
+  line-height: 1.9;
+}
+
+.key-point {
+  margin: 2rem 0;
+  padding: 1rem 1.4rem;
+  border: 1px solid #d2b59a;
+  border-radius: 8px;
+  background: #fffaf3;
+  color: #7a3425;
+}
+
+.opening-quote {
+  margin: 2.5rem 0;
+  text-align: center;
+  font-size: 1.25rem;
+  letter-spacing: 0.18em;
+  color: #62240d;
+}

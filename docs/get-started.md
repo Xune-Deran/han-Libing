@@ -1,46 +1,149 @@
-# Get Started
+---
+pageClass: libing-intro
+---
 
-This is a normal page, which contains VuePress basics.
+# 一个华夏的李冰
 
-## Pages
+我们为什么要做这样一个关于李冰的知识库？
 
-You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.
+因为今天我们谈起李冰，往往只剩下一个非常熟悉、也非常单薄的形象
 
-See [routing][] for more details.
+都江堰的主要修建者，一位古代水利专家。
 
-## Content
+这远远不是李冰的全部。
 
-Every markdown file [will be rendered to HTML, then converted to a Vue SFC][content].
+他首先是一名秦国官员，是蜀郡的最高行政长官。都江堰也不应该只被理解为一项单纯的水利工程。
 
-VuePress support basic markdown syntax and [some extensions][synatex-extensions], you can also [use Vue features][vue-feature] in it.
+治水、通航、灌溉、盐业、道路、生产与地方治理，本来就是彼此联系在一起的。
 
-## Configuration
+李冰所面对是整个蜀地的治理问题。山川怎样利用，水患怎样控制，交通怎样打通，土地怎样开发，人口怎样安顿，新的行政秩序又怎样真正落到这片土地上。只有把他重新放回战国后期秦经营巴蜀的大背景里，很多事情才会恢复原本的分量。
 
-VuePress use a `.vuepress/config.js`(or .ts) file as [site configuration][config], you can use it to config your site.
+他不是因为修了一座伟大的工程，才偶然成为一位伟大的官员。
 
-For [client side configuration][client-config], you can create `.vuepress/client.js`(or .ts).
+正因为他是一位真正治理地方的人，都江堰才只是他留下的最耀眼的一部分。
 
-Meanwhile, you can also add configuration per page with [frontmatter][].
+我们想做的，是把这个已经被课本、传说与后世神话反复简化的人，重新放回他所处的时代，尽可能还原一个属于秦蜀郡守李冰的真实厚度。
 
-## Layouts and customization
 
-Here are common configuration controlling layout of `@vuepress/theme-default`:
 
-- [navbar][]
-- [sidebar][]
 
-Check [default theme docs][default-theme] for full reference.
 
-You can [add extra style][style] with `.vuepress/styles/index.scss` file.
+## 都江堰是方法
 
-[routing]: https://vuejs.press/guide/page.html#routing
-[content]: https://vuejs.press/guide/page.html#content
-[synatex-extensions]: https://vuejs.press/guide/markdown.html#syntax-extensions
-[vue-feature]: https://vuejs.press/guide/markdown.html#using-vue-in-markdown
-[config]: https://vuejs.press/guide/configuration.html#client-config-file
-[client-config]: https://vuejs.press/guide/configuration.html#client-config-file
-[frontmatter]: https://vuejs.press/guide/page.html#frontmatter
-[navbar]: https://vuejs.press/reference/default-theme/config.html#navbar
-[sidebar]: https://vuejs.press/reference/default-theme/config.html#sidebar
-[default-theme]: https://vuejs.press/reference/default-theme/
-[style]: https://vuejs.press/reference/default-theme/styles.html#style-file
+后世喜欢讲李冰斗江神、斩蛟龙、化牛镇水。
+
+但神话出现以前那个李冰是什么样的？
+
+只有真实的山川、泥沙、水势、工程、人力，以及一个地方官必须承担的责任。察地形，审水势。能分则分，能导则导。不与江河蛮力相争，而是顺着它本来的规律去解决问题。
+
+<div class="key-point">
+<strong>都江堰真正令人敬畏的地方，不只是存在了两千多年。</strong>
+</div>
+
+而是两千多年前，有人面对复杂现实，没有沉迷于宏大的想象，而是老老实实地研究问题，然后找到了一套能够真正运转的办法。
+
+因势利导，求实致用。
+
+工程会损坏，河道会改变，制度也会老化。
+
+真正能够延续千年的，从来不是一劳永逸的奇迹，而是一代代人不断修正、不断维护、不断承担责任。
+
+所谓“深淘滩，低作堰”，其意义也正在这里。
+
+
+
+
+
+## 从史书里的郡守到神话里的川主
+
+这个知识库不会把神话中的李冰丢掉。
+
+一个历史人物死后怎样被人记住，本身也是历史的一部分。
+
+早期史籍中的李冰，记载其实相当克制，但随着时间过去，他开始走进地方传说。江神、蛟龙、石人、斗牛，越来越多的故事附着到他的身上。再后来，他成为蜀地祭祀中的川主、水神，也进入了更加庞杂的二郎神传说体系。
+
+于是，这个真实存在过的秦蜀郡守，逐渐拥有了两副面孔：一副属于历史。一副属于神话。
+
+那么，蜀人为什么一代又一代地需要李冰？
+
+为什么一个两千多年前的地方官，最终会成为一方百姓祭祀的神明？
+
+为什么人们要把治水、护境、驱邪、镇灾乃至地方认同，一层一层加到他的身上？
+
+神话并不一定告诉我们李冰本人做过什么。
+
+但它能够告诉我们的是，后来的人希望李冰成为谁。
+
+
+
+
+
+## 何称“华夏”？
+
+李冰确实是属于四川文化的一部分。
+
+都江堰在川蜀，川主庙在川蜀，两千年也是这片土地上的百姓首先来祭祀他。
+
+但李冰又不只属于四川。
+
+他的事业连接国家治理与地方社会。
+
+他的遗产既属于水利史，也属于工程史、制度史与地方文化史。
+
+从秦国经营蜀地，到成都平原逐渐成为重要的农业与交通区域。从史籍中寥寥数笔的蜀守，到后世香火不断的川主。李冰身上留下的，其实是一条很长的文明轨迹。
+
+所以我们想讲的是：
+
+一个华夏的李冰。
+
+一个生活在真实政治秩序中的李冰。
+
+一个面对真实山河的李冰。
+
+一个以工程改变地方命运的李冰。
+
+一个死后又被百姓不断记忆、重塑，最终进入神话的李冰。
+
+我们从不把他吹捧成无所不能的圣人，私人加工成温柔可亲的父母官，也不会把他压缩成课本上的一行水利专家。
+
+<div class="key-point"> <strong>让功绩归功绩，让神话归神话，让史料归史料。</strong> </div>
+
+让每一位访客知晓史书寥寥数笔背后，曾经有一个真实的人，在两千多年前的蜀地做过真实的事情。
+
+
+
+
+
+## 关于“蜀川根脉”
+
+这个知识库将主要收录三类内容：
+
+**科普**，梳理李冰、都江堰以及相关历史背景，尽量把复杂问题讲明白。
+
+**文献**，整理史籍、地方志、碑刻、论文以及其他可以追索李冰历史形象的材料。
+
+**评论**，保留一些无法仅靠史料回答的问题，以及作者个人对于李冰、蜀地与华夏文明的思考。
+
+::: warning 
+
+**这里不会假装所有问题都有确定答案。**
+
+**也不会讲究任何的学术政治正确。**
+
+ :::
+
+史料能够确认的，作者会尽量说明依据。
+
+存在争议的，作者会区分事实、推测与个人判断。
+
+传说与神话，也会尽量追问它们究竟出现于什么时代，又为什么会出现。
+
+这个网站会慢慢长大。
+
+有些文章也会随着资料增加不断修改。
+
+但我们想要做的事情始终只有一件：
+
+拨开两千年来层层叠叠的水雾，让后人重新看见那个曾经站在岷江边上的人——
+
+<div class="opening-quote"> 故蜀郡李府君，讳冰。 </div>

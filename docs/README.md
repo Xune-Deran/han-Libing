@@ -3,37 +3,47 @@ home: true
 title: Home
 heroImage: /images/hero_.png
 actions:
-  - text: Get Started
+  - text: 关于本站
     link: /get-started.html
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: wikipedia
+    link: https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%86%B0
     type: secondary
 
 features:
   - title: 因势治水
-    details: 凿离堆，分江流，审水势而因之。都江堰以疏导代替壅塞，使岷江之患转为灌溉之利。
+    details: 察岷江之性，凿离堆而分其流。非壅之以力，乃因势而导，使害水为利泽。
 
-  - title: 经略蜀地
-    details: 治水之外，李冰亦兴盐、修道、通漕，以工程与治理推动成都平原的发展。
+  - title: 经略蜀郡
+    details: 冰为蜀守，其事固不独水。兴盐井，治道路，通漕运，富其土而便其民。所谓治蜀者，治山川，亦治一郡之生计与秩序。
 
-  - title: 匠心立制
-    details: 鱼嘴、飞沙堰与宝瓶口彼此配合，以简明结构形成分水、排沙、泄洪、灌溉的完整体系。
+  - title: 镇抚南境
+    details: 蜀南未靖，夷徼时动。李冰身任蜀守，或亦奉守土之责，参与镇抚安辑，以申秦之政令。
 
-  - title: 求实致用
-    details: 察地形，知水性，因地制宜。真正可贵的不只是技术，更是从现实出发解决现实问题的方法。
+  - title: 开道西南
+    details: 山险既通，则商旅可行、军旅可进、转输可达。蜀道之开，亦是秦经略西南、控驭边地之一端。
 
-  - title: 化泽为民
-    details: 水患既平，沃野渐成。都江堰改变了农业生产，也深刻影响了蜀地城市、交通与社会发展。
+  - title: 建制安疆
+    details: 水利、盐业、道路、边备，皆非孤事。其所为者，实在使新附之蜀渐入郡县之治，而地方各得其序。
 
-  - title: 岁修不息
-    details: 深淘滩，低作堰。真正能够延续千年的，不是不坏的工程，而是一代代人不停止维护它的责任。
+  - title: 岁修垂法
+    details: 江河无一日不变，工程亦无一劳永逸。故治堰贵在常修，制度贵在能续。
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: han-LiBing | Copyright © 2026 aaa灌口专业筑堰小李师傅
 ---
 
 ## 简介
 
-这是 *aaa灌口专业筑堰小李师傅* 做的第一个 VuePress 网站。是历史人物李冰的知识库，用于存放相关文献、评论、科普等内容。
+一个关于李冰、都江堰与先秦历史的个人知识库。循史料以求其真，观传说以见其变，在治水之外，重新认识那位两千多年前的蜀郡守:panda_face:
+
+
+
+## 投稿与交流
+
+本站欢迎有关李冰、都江堰、秦蜀史及川主信仰的资料补充、考据讨论与文章投稿。 
+
+史料之学，本非一人所能尽。若您发现本站存在史料遗漏、引文讹误，或藏有相关地方志、碑刻、论文与民间材料，皆欢迎来信指正、赐稿。 
+
+**邮箱：** [poise.xd67@gmail.com](mailto:poise.xd67@gmail.com)
 
